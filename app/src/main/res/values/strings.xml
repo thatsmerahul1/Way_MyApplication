@@ -12,4 +12,5 @@
     <string name="something_went_wrong">Something Went Wrong!!</string>
     <string name="network_not_available">Network not available!</string>
     <string name="network_available_now">Network available now!</string>
+    <string name="unknown_error">Unknown error</string>
 </resources>
