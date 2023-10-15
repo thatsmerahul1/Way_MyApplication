@@ -34,6 +34,7 @@ class MainActivity : BaseActivity() {
         binding.swipeRefreshLayout.setOnRefreshListener {
             onPullToRefresh()
         }
+        productListViewModel.getProductList()
     }
 
     private fun initializeViewModel(): ProductListViewModel {
