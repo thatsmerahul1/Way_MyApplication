@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Way - MyApplication</string>
+    <string name="title_name">Name:</string>
+    <string name="title_tagline">Tagline:</string>
+    <string name="title_rating">Rating:</string>
+    <string name="title_date">Date:</string>
+    <string name="name">Name</string>
+    <string name="tagline">Tagline</string>
+    <string name="rating">Rating</string>
+    <string name="date">Date</string>
+</resources>

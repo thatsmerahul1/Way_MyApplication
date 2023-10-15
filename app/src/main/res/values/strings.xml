@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Way - MyApplication</string>
+    <string name="title_name">Name:</string>
+    <string name="title_tagline">Tagline:</string>
+    <string name="title_rating">Rating:</string>
+    <string name="title_date">Date:</string>
+    <string name="name">Name</string>
+    <string name="tagline">Tagline</string>
+    <string name="rating">Rating</string>
+    <string name="date">Date</string>
+    <string name="internet_is_not_available">Internet is not available.</string>
+    <string name="something_went_wrong">Something Went Wrong!!</string>
+    <string name="network_not_available">Network not available!</string>
+    <string name="network_available_now">Network available now!</string>
+</resources>
